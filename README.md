@@ -134,7 +134,27 @@ chp-efficiency-emission-analysis/
 
 # 📸 Project Visuals
 
-CHP system diagrams, emission charts, thermodynamic calculations, and analysis visuals will be added here.
+## ⚡ CHP Efficiency Analysis
+
+![CHP Efficiency Analysis](chp-efficiency-analysis.png)
+
+---
+
+## 🌍 Emission Analysis
+
+![Emission Analysis](emission-analysis.png)
+
+---
+
+## 🔥 Startup CO Emissions
+
+![Startup CO Emissions](startup-co-emissions.png)
+
+---
+
+## ♻ Startup NOx Emissions
+
+![Startup NOx Emissions](startup-nox-emissions.png)
 
 ---
 
